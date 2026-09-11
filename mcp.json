@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aegis": {
+      "command": "npx",
+      "args": ["-y", "github:Viss007/aegis"]
+    }
+  }
+}
